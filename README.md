@@ -6,15 +6,6 @@ The HARP Project is an NIH-funded P50 Center grant in collaboration with the Cen
 
 Data collection includes bioimaging of NIN-related neural systems, assay of peripheral inflammation, and measures of stress exposure and addictive behaviors. RP2 (Foundations) conducts a pioneering longitudinal, two-year experimental trial that includes baseline and follow-up assessments with fMRI, inflammatory, and behavioral data with 300 African American youth at age 11 and their primary caregivers. This study will be able to examine empirically the underlying biological mechanisms for the multi-level benefits of family-centered prevention programming. You can learn more about the projects here.
 
-
-### HARP Research Projects
-
-To address these objectives, HARP comprises two complementary research projects:
-
-**TRANSITIONS (RP1) — Emerging Adulthood (Ages 18–20 at baseline):** Examines how chronic stress exposure influences neuroimmune functioning and vulnerability to addictive behaviors during the transition to adulthood, with a focus on the biological pathways linking social adversity to adverse health outcomes.
-
-**FOUNDATIONS (RP2) — Childhood and Early Adolescence (Age 11 at baseline):** Investigates how chronic stress exposure affects neuroimmune development and whether family-centered prevention programming can mitigate these effects and reduce vulnerability to addictive behaviors.
-
 ## FOUNDATIONS: Neuroimaging Data Processing Workflow
 
 The FOUNDATIONS repository contains scripts used to organize, prepare, and preprocess neuroimaging data collected as part of Research Project 2 (RP2) of HARP:
